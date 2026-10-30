@@ -1,0 +1,143 @@
+{
+ "shards": [
+  {
+   "file": "docs-1999-0.json",
+   "year": "1999",
+   "count": 1
+  },
+  {
+   "file": "docs-2003-0.json",
+   "year": "2003",
+   "count": 1
+  },
+  {
+   "file": "docs-2005-0.json",
+   "year": "2005",
+   "count": 1
+  },
+  {
+   "file": "docs-2009-0.json",
+   "year": "2009",
+   "count": 1
+  },
+  {
+   "file": "docs-2012-0.json",
+   "year": "2012",
+   "count": 2
+  },
+  {
+   "file": "docs-2013-0.json",
+   "year": "2013",
+   "count": 2
+  },
+  {
+   "file": "docs-2014-0.json",
+   "year": "2014",
+   "count": 8
+  },
+  {
+   "file": "docs-2015-0.json",
+   "year": "2015",
+   "count": 16
+  },
+  {
+   "file": "docs-2016-0.json",
+   "year": "2016",
+   "count": 23
+  },
+  {
+   "file": "docs-2017-0.json",
+   "year": "2017",
+   "count": 24
+  },
+  {
+   "file": "docs-2018-0.json",
+   "year": "2018",
+   "count": 62
+  },
+  {
+   "file": "docs-2019-0.json",
+   "year": "2019",
+   "count": 74
+  },
+  {
+   "file": "docs-2020-0.json",
+   "year": "2020",
+   "count": 94
+  },
+  {
+   "file": "docs-2021-0.json",
+   "year": "2021",
+   "count": 126
+  },
+  {
+   "file": "docs-2022-0.json",
+   "year": "2022",
+   "count": 120
+  },
+  {
+   "file": "docs-2023-0.json",
+   "year": "2023",
+   "count": 92
+  },
+  {
+   "file": "docs-2024-0.json",
+   "year": "2024",
+   "count": 91
+  },
+  {
+   "file": "docs-2025-0.json",
+   "year": "2025",
+   "count": 87
+  },
+  {
+   "file": "docs-2026-0.json",
+   "year": "2026",
+   "count": 64
+  },
+  {
+   "file": "docs-undated-0.json",
+   "year": "undated",
+   "count": 42
+  }
+ ],
+ "stats": {
+  "docs": 931,
+  "docs_with_text": 657,
+  "pointers": 590,
+  "leader_issues": 466,
+  "collections": {
+   "City Council": 700,
+   "School Board": 174,
+   "Other City Bodies": 49,
+   "Legislative Audit": 8
+  }
+ },
+ "collections": [
+  "City Council",
+  "Legislative Audit",
+  "Other City Bodies",
+  "School Board"
+ ],
+ "years": [
+  "1999",
+  "2003",
+  "2005",
+  "2009",
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
+}
