@@ -63,42 +63,107 @@
   {
    "file": "docs-2020-0.json",
    "year": "2020",
-   "count": 94
+   "count": 31
+  },
+  {
+   "file": "docs-2020-1.json",
+   "year": "2020",
+   "count": 26
+  },
+  {
+   "file": "docs-2020-2.json",
+   "year": "2020",
+   "count": 15
+  },
+  {
+   "file": "docs-2020-3.json",
+   "year": "2020",
+   "count": 22
   },
   {
    "file": "docs-2021-0.json",
    "year": "2021",
-   "count": 126
+   "count": 50
+  },
+  {
+   "file": "docs-2021-1.json",
+   "year": "2021",
+   "count": 42
+  },
+  {
+   "file": "docs-2021-2.json",
+   "year": "2021",
+   "count": 29
+  },
+  {
+   "file": "docs-2021-3.json",
+   "year": "2021",
+   "count": 5
   },
   {
    "file": "docs-2022-0.json",
    "year": "2022",
-   "count": 120
+   "count": 53
+  },
+  {
+   "file": "docs-2022-1.json",
+   "year": "2022",
+   "count": 67
   },
   {
    "file": "docs-2023-0.json",
    "year": "2023",
-   "count": 92
+   "count": 71
+  },
+  {
+   "file": "docs-2023-1.json",
+   "year": "2023",
+   "count": 21
   },
   {
    "file": "docs-2024-0.json",
    "year": "2024",
-   "count": 91
+   "count": 58
+  },
+  {
+   "file": "docs-2024-1.json",
+   "year": "2024",
+   "count": 33
   },
   {
    "file": "docs-2025-0.json",
    "year": "2025",
-   "count": 87
+   "count": 69
+  },
+  {
+   "file": "docs-2025-1.json",
+   "year": "2025",
+   "count": 18
   },
   {
    "file": "docs-2026-0.json",
    "year": "2026",
-   "count": 64
+   "count": 59
+  },
+  {
+   "file": "docs-2026-1.json",
+   "year": "2026",
+   "count": 5
   },
   {
    "file": "docs-undated-0.json",
    "year": "undated",
-   "count": 42
+   "count": 14
+  },
+  {
+   "file": "docs-undated-1.json",
+   "year": "undated",
+   "count": 21
+  },
+  {
+   "file": "docs-undated-2.json",
+   "year": "undated",
+   "count": 7
   }
  ],
  "stats": {
