@@ -85,3 +85,7 @@ mark { background: #ffe98a; padding: 0 1px; }
   display: inline-block; background: #efe9dc; border-radius: 3px; padding: 0 6px;
   font-size: 0.75rem; margin-right: 6px; font-family: Helvetica, Arial, sans-serif;
 }
+
+figure.photo { margin: 1.4em 0; }
+figure.photo img { max-width: 100%; height: auto; display: block; border: 1px solid #bbb; }
+figure.photo figcaption { font-size: 0.85em; color: #555; margin-top: 0.45em; line-height: 1.45; }
